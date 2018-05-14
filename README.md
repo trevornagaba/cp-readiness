@@ -1,0 +1,1 @@
+My name is Nagaba Trevor. I am an electrical engineer, who loves to experiment with technology tools. I recently graduated from Makerere University and I love to play football and read books. 
