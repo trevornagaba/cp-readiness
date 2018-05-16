@@ -1,0 +1,1 @@
+This is a simple web app built using flask with guidance from Lalith Polepeddi at https://code.tutsplus.com/tutorials/an-introduction-to-pythons-flask-framework--net-28822
